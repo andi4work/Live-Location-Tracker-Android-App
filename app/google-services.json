@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "972082265379",
+    "firebase_url": "https://onecmrlabs.firebaseio.com",
+    "project_id": "onecmrlabs",
+    "storage_bucket": "onecmrlabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972082265379:android:4c5591c3a3f416d249a096",
+        "android_client_info": {
+          "package_name": "com.cmrlabs.invitation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQu5V8WAnzUeP-wtGgfxsVrIWIdImBI4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972082265379:android:6e5ade2466ba506649a096",
+        "android_client_info": {
+          "package_name": "com.cmrlabs.invitation1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQu5V8WAnzUeP-wtGgfxsVrIWIdImBI4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972082265379:android:b324fe595516af5249a096",
+        "android_client_info": {
+          "package_name": "com.cmrlabs.invitation2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQu5V8WAnzUeP-wtGgfxsVrIWIdImBI4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972082265379:android:5173d75eed8c8bf949a096",
+        "android_client_info": {
+          "package_name": "com.cmrlabs.invitation3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQu5V8WAnzUeP-wtGgfxsVrIWIdImBI4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972082265379:android:6bd941fbe6f1027f49a096",
+        "android_client_info": {
+          "package_name": "com.cmrlabs.invitation4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQu5V8WAnzUeP-wtGgfxsVrIWIdImBI4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972082265379:android:2a28f78ec6e3eada49a096",
+        "android_client_info": {
+          "package_name": "com.cmrlabs.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQu5V8WAnzUeP-wtGgfxsVrIWIdImBI4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972082265379:android:88955fd47fc79f6949a096",
+        "android_client_info": {
+          "package_name": "com.cmrlabs.trendingtimes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQu5V8WAnzUeP-wtGgfxsVrIWIdImBI4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972082265379-tiovh470pnq7r1p3dc1ucpemqbovk359.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
